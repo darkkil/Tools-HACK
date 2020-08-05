@@ -1,7 +1,10 @@
 apk update && apk upgrade
 ---------------------------
-apk add python
+apk add python3
 ---------------------------
 apk add git 
 ---------------------------
-git clone 
+git clone https://github.com/darkkil/Tools-HACK
+---------------------------
+
+$ cd Tools-HACK
