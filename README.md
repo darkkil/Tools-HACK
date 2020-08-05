@@ -8,3 +8,6 @@ git clone https://github.com/darkkil/Tools-HACK
 ---------------------------
 
 $ cd Tools-HACK
+$ python3 Tools-HACK
+
+---------------------------
